@@ -1,3 +1,7 @@
+-=(Pong_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 *****************************************************************
 **              Arcade: Atari Pong (1972)                      **
 ** A Verilog implementation based on the original schematics.  **
